@@ -1,6 +1,6 @@
 ## Hey, ich bin Christopher 👋
 
-<p font-size="10px">... Informatikstudent und freiberuflicher Softwareentwickler. Ich begeistere mich für Blockchain-Technologien und Web-Engineering. Seit 2023 Helfe ich Kund*innen bei der Planung und Umsetzung von Web- und Softwareprojekten. </p>
+<p font-size="100px">... Informatikstudent und freiberuflicher Softwareentwickler. Ich begeistere mich für Blockchain-Technologien und Web-Engineering. Seit 2023 Helfe ich Kund*innen bei der Planung und Umsetzung von Web- und Softwareprojekten. </p>
 
 
 <b> Ich freue mich über: </b>
