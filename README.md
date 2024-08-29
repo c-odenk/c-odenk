@@ -1,18 +1,14 @@
 ## Hey, ich bin Christopher 👋
-
 <p font-size="100px">... Informatikstudent und freiberuflicher Softwareentwickler. Ich begeistere mich für Blockchain-Technologien und Web-Engineering. Seit 2023 Helfe ich Kund*innen bei der Planung und Umsetzung von Web- und Softwareprojekten. </p>
-
-
 <b> Ich freue mich über: </b>
-
-- Fachlichen Austausch
-- Kollaborative Projekte jeder Art
-- Interessante Praktika / Auslandsprojekte
-
-
+- Fachlichen Austausch<br>
+- Kollaborative Projekte jeder Art<br>
+- Interessante Praktika / Auslandsprojekte<br>
+<br>
 📫 Man erreicht mich am besten per Mail unter christopher.odenkirchen@gmail.com
-
-
+<br>
+<br>
+<br>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -23,7 +19,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  
 </p>
 
 <!--
