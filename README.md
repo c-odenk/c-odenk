@@ -2,6 +2,10 @@
 
 Ich bin Christopher, Informatikstudent und freiberuflicher Softwareentwickler.
 
+Meine ersten Zeilen Code schrieb ich, als das Web noch aus tabellenbasierten Layouts bestand - doch mein beruflicher Werdegang sollte erst ein anderer sein. Nach einem erfolgreichen Bachelorabschluss in Business Administration, arbeitete ich rund fünf Jahre für eine international tätige Unternehmensberatung im Strategic Management.
+
+Darauf folgte ein weiteres Bachelorstudium in Computer Science mit Schwerpunkt Software- und Web-Engineering, sowie mein Karrierewechsel in die Techbranche Ende 2023. Seitdem helfe ich Kund*innen bei der Planung und Umsetzung von Web- und Softwareprojekten
+
 <!--
 **c-odenk/c-odenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
