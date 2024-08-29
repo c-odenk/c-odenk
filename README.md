@@ -1,11 +1,11 @@
 ## Hey, ich bin Christopher 👋
-<p font-size="100px">... Informatikstudent und freiberuflicher Softwareentwickler. Ich begeistere mich für Blockchain-Technologien und Web-Engineering. Seit 2023 Helfe ich Kund*innen bei der Planung und Umsetzung von Web- und Softwareprojekten. </p>
-<b> Ich freue mich über: </b>
+... Informatikstudent und freiberuflicher Softwareentwickler. Ich begeistere mich für Blockchain-Technologien und Web-Engineering. Seit 2023 Helfe ich Kund*innen bei der Planung und Umsetzung von Web- und Softwareprojekten.<br><br>
+<b> Ich freue mich über: </b><br>
 - Fachlichen Austausch<br>
 - Kollaborative Projekte jeder Art<br>
 - Interessante Praktika / Auslandsprojekte<br>
 <br>
-📫 Man erreicht mich am besten per Mail unter christopher.odenkirchen@gmail.com
+📫  Man erreicht mich am besten per Mail unter: christopher.odenkirchen@gmail.com
 <br>
 <br>
 <br>
