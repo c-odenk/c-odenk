@@ -6,8 +6,10 @@
 - Kollaborative Projekte jeder Art<br>
 - Interessante Praktika / Auslandsprojekte<br>
 <br>
-📫  &nbsp; Man erreicht mich am besten per Mail unter: christopher.odenkirchen@gmail.com
+📫  &nbsp; Du erreichst mich am besten per Mail unter: christopher.odenkirchen@gmail.com
 <br>
+<br>
+<b> Mein Tech-Stack: </b>
 <br>
 <br>
 <p align="left"> 
