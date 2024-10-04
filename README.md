@@ -1,5 +1,5 @@
 ## Hey, ich bin Christopher 👋
-... Informatikstudent an der Hochschule Bonn-Rhein-Sieg und Softwareentwickler. Ich begeistere mich für Blockchain-Technologien und Web-Entwicklung. Seit 2023 Helfe ich Kund*innen bei der Planung und Umsetzung von Web- und Softwareprojekten.<br><br>
+... Informatikstudent an der HBRS und freiberuflicher Softwareentwickler. Ich begeistere mich für Web-Entwicklung und Blockchain-Technologien. Seit 2023 Helfe ich Kund*innen bei der Planung und Umsetzung von Web- und Softwareprojekten.<br><br>
 <b> Ich freue mich über: </b><br>
 - Fachlichen Austausch<br>
 - Neue Herausforderungen <br>
