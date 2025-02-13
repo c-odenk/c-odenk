@@ -1,5 +1,5 @@
 ## Hey, ich bin Christopher 👋
-... Informatikstudent und Softwareentwickler. Ich begeistere mich für Web-Entwicklung und die Blockchain-Technologien. Seit 2023 helfe ich Kund*innen bei der Planung und Umsetzung umfangreicher Digitalisierungsprojekten.<br><br>
+... Informatikstudent und Softwareentwickler. Ich begeistere mich für Web-Entwicklung und die Blockchain-Technologien. Seit 2023 helfe ich Kund*innen bei der Planung und Umsetzung umfangreicher Digitalisierungsprojekte.<br><br>
 <b> Ich freue mich über: </b><br>
 - Fachlichen Austausch<br>
 - Neue Herausforderungen <br>
