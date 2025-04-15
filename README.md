@@ -1,7 +1,7 @@
 ## Hey, ich bin Christopher 👋  
-... Wirtschaftsinformatik-Student & Softwareentwickler. Ich begeistere mich für Web-Entwicklung und Blockchain-Technologien. Seit 2023 helfe ich Kund*innen bei der Planung und Umsetzung umfangreicher Digitalisierungsprojekte.
+... Wirtschaftsinformatik-Student & leidenschaftlicher Softwareentwickler mit Fokus auf moderne Web-Technologien und Blockchain-Anwendungen.
 
-Ich studiere an der Hochschule Bonn-Rhein-Sieg mit den Schwerpunkten Web Engineering, Web Usability und Blockchain-Technologie. Vor meinem Wechsel in die IT habe ich einen Abschluss in Business Administration erworben und fünf Jahre lang in einer international tätigen Unternehmensberatung gearbeitet.
+Ich studiere an der Hochschule Bonn-Rhein-Sieg mit den Schwerpunkten Web Engineering, Web Usability und Blockchain-Technologie. Vor meinem Wechsel in die IT-Branche habe ich einen Abschluss in Business Administration erworben und über fünf Jahre in einer international tätigen Unternehmensberatung gearbeitet. Seit 2023 unterstütze ich Kund*innen bei der strategischen Planung und technischen Umsetzung von Digitalisierungsprojekten.
 <br>
 <br>
 
@@ -12,10 +12,10 @@ Ich studiere an der Hochschule Bonn-Rhein-Sieg mit den Schwerpunkten Web Enginee
 - Begeisterung für kollaborative Projekte & kontinuierliche Verbesserung
 <br>
 
-<b> Ich freue mich über: </b><br>
+<b> 🤝 Was ich suche: </b><br>
 - Fachlichen Austausch
 - Neue Herausforderungen
-- Kollaborative Projekte jeder Art
+- Neue Impulse & innovative Teamkulturen
 - Interessante Praktika / Auslandsprojekte
 <br>
 📫 Erreichbar per Mail: **christopher.odenkirchen@gmail.com**
