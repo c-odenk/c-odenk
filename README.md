@@ -1,5 +1,5 @@
 ## Hey, ich bin Christopher 👋  
-... Wirtschaftsinformatik-Student & Softwareentwickler. Ich begeistere mich für Web-Entwicklung und die Blockchain-Technologien. Seit 2023 helfe ich Kund*innen bei der Planung und Umsetzung umfangreicher Digitalisierungsprojekte.
+... Wirtschaftsinformatik-Student & Softwareentwickler. Ich begeistere mich für Web-Entwicklung und Blockchain-Technologien. Seit 2023 helfe ich Kund*innen bei der Planung und Umsetzung umfangreicher Digitalisierungsprojekte.
 
 Ich studiere an der Hochschule Bonn-Rhein-Sieg mit den Schwerpunkten Web Engineering, Web Usability und Blockchain-Technologie. Vor meinem Wechsel in die IT habe ich einen Abschluss in Business Administration erworben und fünf Jahre lang in einer international tätigen Unternehmensberatung gearbeitet.
 <br>
